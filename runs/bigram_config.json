@@ -1,0 +1,36 @@
+{
+  "args": {
+    "model": "bigram",
+    "data": "data\\input.txt",
+    "out_dir": "runs",
+    "samples_dir": "samples",
+    "run_name": "bigram",
+    "max_steps": 3000,
+    "batch_size": 32,
+    "block_size": 128,
+    "n_layer": 4,
+    "n_head": 4,
+    "n_embd": 128,
+    "dropout": 0.1,
+    "lr": null,
+    "weight_decay": 0.1,
+    "warmup_steps": 100,
+    "no_schedule": false,
+    "eval_interval": 250,
+    "eval_iters": 50,
+    "log_interval": 500,
+    "sample_every": 1000,
+    "sample_tokens": 400,
+    "temperature": 0.8,
+    "top_k": 50,
+    "train_fraction": 0.9,
+    "seed": 1337,
+    "device": "auto"
+  },
+  "model_type": "bigram",
+  "model_args": {
+    "vocab_size": 65
+  },
+  "parameters": 4225,
+  "base_lr": 0.01
+}

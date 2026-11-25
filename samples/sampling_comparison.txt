@@ -1,0 +1,106 @@
+Checkpoint: runs\gpt.pt
+Step: 3000 | val loss: 1.8868
+Prompt: 'ROMEO:' | new tokens per sample: 120
+
+temperature=0.5 | top_k=none
+----------------------------
+ROMEO:
+What here dear Edward of that hear bone of the broy best
+This the sing a a not ime to fair the the couse
+The have compa
+
+temperature=0.5 | top_k=10
+--------------------------
+ROMEO:
+What here dear that hand be hear the come the my that
+stoul with this bake of him so see have and
+Whey the bears of the
+
+temperature=0.5 | top_k=50
+--------------------------
+ROMEO:
+What here dear Edward of that hear bone of the broy best
+This the sing a a not ime to fair the the couse
+The have compa
+
+temperature=0.8 | top_k=none
+----------------------------
+ROMEO:
+Why, herchee.
+
+ENTHY LARGBULY:
+Be thou poote this ear store with this bake.
+
+POLIES:
+Ay, you presencey more shall come 
+
+temperature=0.8 | top_k=10
+--------------------------
+ROMEO:
+Why, herche weare in to sunsee we thou poone this
+That this with this bake of him so severy had.
+
+GLEONTER ES: so, sill
+
+temperature=0.8 | top_k=50
+--------------------------
+ROMEO:
+Why, herchee.
+
+ENTHY LARGBULY:
+Be thou poote this ear store with this bake.
+
+POLIES:
+Ay, you presencey more shall come 
+
+temperature=1 | top_k=none
+--------------------------
+ROMEO:
+Why, herchee.
+
+ENTHY LARGS:
+Yeare and spoone this ear stoin with to all my not.
+
+KING RICHARD III:
+Thy mor beh soocesla
+
+temperature=1 | top_k=10
+------------------------
+ROMEO:
+Why, herche weare in bolouns when and
+Though this do hid hath sover's bake mase,
+And severy had saice her sencress.
+
+BO
+
+temperature=1 | top_k=50
+------------------------
+ROMEO:
+Why, herchee.
+
+ENTHY LARGS:
+Yeare and spoone this ear stoin with to all my not.
+
+KING RICHARD III:
+Thy mor beh soocesla
+
+temperature=1.2 | top_k=none
+----------------------------
+ROMEO:
+Whull you denew in, lronguns eare and
+Lefore this e with is witster; and yongenimss
+As your had saicey mor broak Langla
+
+temperature=1.2 | top_k=10
+--------------------------
+ROMEO:
+Whull you denew in, hanloughte we and
+Thouge this do hid hath state as a a goent
+Her sevaly apon ance her. The somess: 
+
+temperature=1.2 | top_k=50
+--------------------------
+ROMEO:
+Whull you denew in, lronguns eare and
+Lefore this e with is witster; and yongenimss
+As your had saicey mor broak Langla

@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+runs/*
+!runs/gpt.pt
+!runs/bigram.pt
+!runs/*_config.json
+!runs/*_metrics.csv
+*.egg-info/
